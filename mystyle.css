@@ -1,0 +1,99 @@
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Style the "active" element to highlight the current page */
+.topnav a.active {
+    background-color: #2196F3;
+    color: white;
+}
+
+
+
+.topnav input[type=text] {
+	
+	background-color: skyblue;
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+
+
+
+
+button{
+	background-color: #f49719;
+    float: center;
+    display: block;
+    color: none;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: red;
+    font-size: 17px;
+}
+
+
+td tr{
+	text-align: center;
+	
+}
+
+
+
+
+h1{
+	text-align: center;
+	color: white;
+	blink: right;
+}
+
+
+center{ 
+	color: red;
+	border: 10px;
+	
+}
+
+
+h3{
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
